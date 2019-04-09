@@ -1,0 +1,30 @@
+body{
+background-image:url(https://st2.depositphotos.com/1998781/11552/v/450/depositphotos_115529474-stock-illustration-aircraft-vector-logo-icon-flat.jpg);
+ box-shadow: 0 0 2px rgba(0, 0, 0, 0.06); 
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+
+    max-width: 800px; 
+    padding: 2em 2em 4em;	
+}
+
+.in{
+background-color: #3A5ACE;
+height: 20px;
+text-align: center;
+font-size: 50px;
+
+
+}
+nav{
+background-color: #3A5ACE;
+text-align: center;
+}
+a{
+	text-decoration:none; 
+	padding:100px; 
+
+}
